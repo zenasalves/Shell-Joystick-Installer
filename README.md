@@ -1,5 +1,6 @@
 # Joystick
 A joystick installer script for UNIX systems
+
 Make sure that the script have the running permissions, for do it, run in your terminal:
 
 $ sudo chmod 775 joystick.sh
