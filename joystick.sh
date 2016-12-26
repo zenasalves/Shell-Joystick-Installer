@@ -19,7 +19,7 @@ sudo ln -s input/js0 js0
 sudo ln -s input/js1 js1
 sudo ln -s input/js2 js2
 sudo ln -s input/js3 js3
-if result3=$(find input/event*) ; then
+if result2=$(find input/event*) ; then
 sudo rm input/event0
 sudo rm input/event1
 sudo rm input/event2
